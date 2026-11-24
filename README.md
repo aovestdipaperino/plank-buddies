@@ -1,5 +1,7 @@
 # plank-buddies
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/plank-buddies?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/plank-buddies/stargazers)
+
 Buddies for [plank](https://github.com/aovestdipaperino/plank)'s `/buddy` command: a small animated character standing on the rule above the prompt while plank is idle.
 
 Each top-level folder is one buddy. `/buddy on` (with no buddy installed) and `/buddy replace` list the folders here; picking one downloads it into `~/.plank/buddy/`, replacing the buddy you had.
